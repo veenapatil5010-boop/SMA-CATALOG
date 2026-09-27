@@ -1,0 +1,40 @@
+CATALOG MAKER - READY TO RUN
+============================
+
+1. Open this folder in VS Code.
+2. Open Terminal.
+3. Run:
+
+   npm install
+   npm start
+
+4. Open:
+
+   http://localhost:3000
+
+ADMIN LOGIN
+-----------
+Open the Admin link in the catalog.
+Password:
+
+   CatalogAdmin@2026
+
+LOCAL MODE
+----------
+The included .env uses JSON storage so the project starts without MySQL.
+It contains 100 demonstration products (50 Shopify-tagged + 50 WooCommerce-tagged).
+
+When you are ready for database evaluation, change:
+
+   DB_DRIVER=mysql
+
+and configure the MySQL values in .env.
+
+SHOPIFY / WOOCOMMERCE
+---------------------
+These remain intentionally unconfigured for now, as requested. The project
+contains the integration code and can use the built-in demo data until real
+store credentials are supplied.
+
+If you change .env while the server is running, restart the server with Ctrl+C
+and npm start.

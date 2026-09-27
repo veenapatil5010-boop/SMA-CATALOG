@@ -1,0 +1,2837 @@
+{
+  "config": {
+    "clientName": "Atelier Home",
+    "whatsAppNumber": "919999999999",
+    "activeDesign": "editorial",
+    "pageSize": 12
+  },
+  "categories": [
+    {
+      "id": "living",
+      "slug": "living",
+      "name": "Living Room",
+      "sortOrder": 1,
+      "visible": true
+    },
+    {
+      "id": "bedroom",
+      "slug": "bedroom",
+      "name": "Bedroom",
+      "sortOrder": 2,
+      "visible": true
+    },
+    {
+      "id": "dining",
+      "slug": "dining",
+      "name": "Dining",
+      "sortOrder": 3,
+      "visible": true
+    },
+    {
+      "id": "office",
+      "slug": "office",
+      "name": "Office",
+      "sortOrder": 4,
+      "visible": true
+    },
+    {
+      "id": "outdoor",
+      "slug": "outdoor",
+      "name": "Outdoor",
+      "sortOrder": 5,
+      "visible": true
+    }
+  ],
+  "products": [
+    {
+      "id": "b67d317a-d5e5-417c-8d54-b18165acdc2e",
+      "source": "shopify",
+      "sourceId": "shopify-1",
+      "sourceUrl": "https://example-shopify.test/products/shopify-1",
+      "name": "Sage Runner 01",
+      "sku": "SHO-0001",
+      "price": 1436,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sage runner designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 4,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203233?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.028Z",
+      "createdAt": "2026-09-27T19:14:12.028Z"
+    },
+    {
+      "id": "c0524ee6-7146-4483-93b1-773375e5de81",
+      "source": "shopify",
+      "sourceId": "shopify-2",
+      "sourceUrl": "https://example-shopify.test/products/shopify-2",
+      "name": "Indigo Rug 02",
+      "sku": "SHO-0002",
+      "price": 1573,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected indigo rug designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 5,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203234?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.028Z",
+      "createdAt": "2026-09-27T19:14:12.028Z"
+    },
+    {
+      "id": "42142807-cb7e-46a7-a415-36168c8b1b5e",
+      "source": "shopify",
+      "sourceId": "shopify-3",
+      "sourceUrl": "https://example-shopify.test/products/shopify-3",
+      "name": "Terracotta Mat 03",
+      "sku": "SHO-0003",
+      "price": 1710,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected terracotta mat designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 6,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203235?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.028Z",
+      "createdAt": "2026-09-27T19:14:12.028Z"
+    },
+    {
+      "id": "adf5be7e-2656-42d9-bba1-7447bf675b6f",
+      "source": "shopify",
+      "sourceId": "shopify-4",
+      "sourceUrl": "https://example-shopify.test/products/shopify-4",
+      "name": "Ivory Textile 04",
+      "sku": "SHO-0004",
+      "price": 1847,
+      "compareAtPrice": 2647,
+      "currency": "INR",
+      "description": "A hand-selected ivory textile designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 7,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203236?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.028Z",
+      "createdAt": "2026-09-27T19:14:12.028Z"
+    },
+    {
+      "id": "233c5585-2a9d-4222-b536-6b2e2f03ecca",
+      "source": "shopify",
+      "sourceId": "shopify-5",
+      "sourceUrl": "https://example-shopify.test/products/shopify-5",
+      "name": "Olive Throw 05",
+      "sku": "SHO-0005",
+      "price": 1984,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected olive throw designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 8,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203237?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.028Z",
+      "createdAt": "2026-09-27T19:14:12.028Z"
+    },
+    {
+      "id": "6fc17de9-5bee-43a9-8230-10b95c38d94b",
+      "source": "shopify",
+      "sourceId": "shopify-6",
+      "sourceUrl": "https://example-shopify.test/products/shopify-6",
+      "name": "Sand Fabric 06",
+      "sku": "SHO-0006",
+      "price": 2121,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sand fabric designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 9,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203238?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.028Z",
+      "createdAt": "2026-09-27T19:14:12.028Z"
+    },
+    {
+      "id": "df9dfefa-c514-4146-a1a0-7ffadd5d8def",
+      "source": "shopify",
+      "sourceId": "shopify-7",
+      "sourceUrl": "https://example-shopify.test/products/shopify-7",
+      "name": "Cobalt Loom 07",
+      "sku": "SHO-0007",
+      "price": 2258,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected cobalt loom designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 10,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203239?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "ee86ea52-b5ab-453d-8a53-97c3c13b53c5",
+      "source": "shopify",
+      "sourceId": "shopify-8",
+      "sourceUrl": "https://example-shopify.test/products/shopify-8",
+      "name": "Rose Cushion 08",
+      "sku": "SHO-0008",
+      "price": 2395,
+      "compareAtPrice": 3195,
+      "currency": "INR",
+      "description": "A hand-selected rose cushion designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 11,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203240?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "1f657f2f-cd76-4eb8-9f4e-5c84fe1f04aa",
+      "source": "shopify",
+      "sourceId": "shopify-9",
+      "sourceUrl": "https://example-shopify.test/products/shopify-9",
+      "name": "Slate Pattern 09",
+      "sku": "SHO-0009",
+      "price": 2532,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected slate pattern designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 12,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203241?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "839b7e6d-b867-4b17-8574-9ee3609b276e",
+      "source": "shopify",
+      "sourceId": "shopify-10",
+      "sourceUrl": "https://example-shopify.test/products/shopify-10",
+      "name": "Amber Weave 10",
+      "sku": "SHO-0010",
+      "price": 2669,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected amber weave designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 13,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203242?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "8b81cb92-e583-4725-85d9-a5b6f760b35f",
+      "source": "shopify",
+      "sourceId": "shopify-11",
+      "sourceUrl": "https://example-shopify.test/products/shopify-11",
+      "name": "Sage Runner 11",
+      "sku": "SHO-0011",
+      "price": 2806,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sage runner designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 0,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203243?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "a01f9dd7-9a48-47ad-a41b-e1c0e96a207b",
+      "source": "shopify",
+      "sourceId": "shopify-12",
+      "sourceUrl": "https://example-shopify.test/products/shopify-12",
+      "name": "Indigo Rug 12",
+      "sku": "SHO-0012",
+      "price": 2943,
+      "compareAtPrice": 3743,
+      "currency": "INR",
+      "description": "A hand-selected indigo rug designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 15,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203244?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "d9afb7c7-04d0-4e1b-835f-f0244e6b2bc7",
+      "source": "shopify",
+      "sourceId": "shopify-13",
+      "sourceUrl": "https://example-shopify.test/products/shopify-13",
+      "name": "Terracotta Mat 13",
+      "sku": "SHO-0013",
+      "price": 3080,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected terracotta mat designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 16,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203245?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "164e2f50-09da-4c6b-97a1-7a17c89252e2",
+      "source": "shopify",
+      "sourceId": "shopify-14",
+      "sourceUrl": "https://example-shopify.test/products/shopify-14",
+      "name": "Ivory Textile 14",
+      "sku": "SHO-0014",
+      "price": 3217,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected ivory textile designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 17,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203246?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "f2e7259b-b155-4db7-8ddd-e2aee51b7087",
+      "source": "shopify",
+      "sourceId": "shopify-15",
+      "sourceUrl": "https://example-shopify.test/products/shopify-15",
+      "name": "Olive Throw 15",
+      "sku": "SHO-0015",
+      "price": 3354,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected olive throw designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 18,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203247?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "31bd10e5-6353-4949-a81c-ae10f2803802",
+      "source": "shopify",
+      "sourceId": "shopify-16",
+      "sourceUrl": "https://example-shopify.test/products/shopify-16",
+      "name": "Sand Fabric 16",
+      "sku": "SHO-0016",
+      "price": 3491,
+      "compareAtPrice": 4291,
+      "currency": "INR",
+      "description": "A hand-selected sand fabric designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 19,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203248?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "b6113692-06fd-43ea-b3c1-2cb37795101e",
+      "source": "shopify",
+      "sourceId": "shopify-17",
+      "sourceUrl": "https://example-shopify.test/products/shopify-17",
+      "name": "Cobalt Loom 17",
+      "sku": "SHO-0017",
+      "price": 3628,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected cobalt loom designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 20,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203249?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "bce88ca1-af75-4997-8971-b66c514e90db",
+      "source": "shopify",
+      "sourceId": "shopify-18",
+      "sourceUrl": "https://example-shopify.test/products/shopify-18",
+      "name": "Rose Cushion 18",
+      "sku": "SHO-0018",
+      "price": 3765,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected rose cushion designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 3,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203250?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "1fa44a69-9632-4436-adf3-49cb06c6ba6c",
+      "source": "shopify",
+      "sourceId": "shopify-19",
+      "sourceUrl": "https://example-shopify.test/products/shopify-19",
+      "name": "Slate Pattern 19",
+      "sku": "SHO-0019",
+      "price": 3902,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected slate pattern designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 4,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203251?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "76135c2d-e722-4bd1-9f56-0de866d37062",
+      "source": "shopify",
+      "sourceId": "shopify-20",
+      "sourceUrl": "https://example-shopify.test/products/shopify-20",
+      "name": "Amber Weave 20",
+      "sku": "SHO-0020",
+      "price": 4039,
+      "compareAtPrice": 4839,
+      "currency": "INR",
+      "description": "A hand-selected amber weave designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 5,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203232?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "3af0022a-0e49-4885-bfd4-74000cf989e6",
+      "source": "shopify",
+      "sourceId": "shopify-21",
+      "sourceUrl": "https://example-shopify.test/products/shopify-21",
+      "name": "Sage Runner 21",
+      "sku": "SHO-0021",
+      "price": 4176,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sage runner designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 6,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203233?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "5a11861f-8549-4894-9539-b9504f5b4649",
+      "source": "shopify",
+      "sourceId": "shopify-22",
+      "sourceUrl": "https://example-shopify.test/products/shopify-22",
+      "name": "Indigo Rug 22",
+      "sku": "SHO-0022",
+      "price": 4313,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected indigo rug designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 0,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203234?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "7766124c-d0df-4199-b3a8-9f283cbf74dd",
+      "source": "shopify",
+      "sourceId": "shopify-23",
+      "sourceUrl": "https://example-shopify.test/products/shopify-23",
+      "name": "Terracotta Mat 23",
+      "sku": "SHO-0023",
+      "price": 4450,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected terracotta mat designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 8,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203235?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "d1c1aa88-0815-4582-a6bb-8f2c85296e45",
+      "source": "shopify",
+      "sourceId": "shopify-24",
+      "sourceUrl": "https://example-shopify.test/products/shopify-24",
+      "name": "Ivory Textile 24",
+      "sku": "SHO-0024",
+      "price": 4587,
+      "compareAtPrice": 5387,
+      "currency": "INR",
+      "description": "A hand-selected ivory textile designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 9,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203236?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "51890b60-fe92-4b50-ad1b-568b9ab92ee9",
+      "source": "shopify",
+      "sourceId": "shopify-25",
+      "sourceUrl": "https://example-shopify.test/products/shopify-25",
+      "name": "Olive Throw 25",
+      "sku": "SHO-0025",
+      "price": 4724,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected olive throw designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 10,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203237?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "87320fd8-9d11-4657-992a-c069e7bc6431",
+      "source": "shopify",
+      "sourceId": "shopify-26",
+      "sourceUrl": "https://example-shopify.test/products/shopify-26",
+      "name": "Sand Fabric 26",
+      "sku": "SHO-0026",
+      "price": 4861,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sand fabric designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 11,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203238?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "a504dcbc-f6e9-4d64-8c00-d0811bbea897",
+      "source": "shopify",
+      "sourceId": "shopify-27",
+      "sourceUrl": "https://example-shopify.test/products/shopify-27",
+      "name": "Cobalt Loom 27",
+      "sku": "SHO-0027",
+      "price": 4998,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected cobalt loom designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 12,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203239?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "f1299fbb-d15e-4146-b4f3-bb3da408ec8a",
+      "source": "shopify",
+      "sourceId": "shopify-28",
+      "sourceUrl": "https://example-shopify.test/products/shopify-28",
+      "name": "Rose Cushion 28",
+      "sku": "SHO-0028",
+      "price": 5135,
+      "compareAtPrice": 5935,
+      "currency": "INR",
+      "description": "A hand-selected rose cushion designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 13,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203240?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "72e147ad-e60a-4674-b4d0-80e2675f5be9",
+      "source": "shopify",
+      "sourceId": "shopify-29",
+      "sourceUrl": "https://example-shopify.test/products/shopify-29",
+      "name": "Slate Pattern 29",
+      "sku": "SHO-0029",
+      "price": 5272,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected slate pattern designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 14,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203241?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "a13d54f8-1020-4a53-9e1d-08884afb98be",
+      "source": "shopify",
+      "sourceId": "shopify-30",
+      "sourceUrl": "https://example-shopify.test/products/shopify-30",
+      "name": "Amber Weave 30",
+      "sku": "SHO-0030",
+      "price": 5409,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected amber weave designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 15,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203242?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "48d99957-eb61-41c5-bc28-a57bdd8db215",
+      "source": "shopify",
+      "sourceId": "shopify-31",
+      "sourceUrl": "https://example-shopify.test/products/shopify-31",
+      "name": "Sage Runner 31",
+      "sku": "SHO-0031",
+      "price": 5546,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sage runner designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 16,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203243?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "ce78349c-d645-4b52-91ad-61de89778b63",
+      "source": "shopify",
+      "sourceId": "shopify-32",
+      "sourceUrl": "https://example-shopify.test/products/shopify-32",
+      "name": "Indigo Rug 32",
+      "sku": "SHO-0032",
+      "price": 5683,
+      "compareAtPrice": 6483,
+      "currency": "INR",
+      "description": "A hand-selected indigo rug designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 17,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203244?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "86c62b5f-1135-41f9-871f-f38b9d4f8915",
+      "source": "shopify",
+      "sourceId": "shopify-33",
+      "sourceUrl": "https://example-shopify.test/products/shopify-33",
+      "name": "Terracotta Mat 33",
+      "sku": "SHO-0033",
+      "price": 5820,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected terracotta mat designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 0,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203245?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "d4b3953b-4446-4011-aa4f-02b04e36252d",
+      "source": "shopify",
+      "sourceId": "shopify-34",
+      "sourceUrl": "https://example-shopify.test/products/shopify-34",
+      "name": "Ivory Textile 34",
+      "sku": "SHO-0034",
+      "price": 5957,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected ivory textile designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 19,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203246?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "eab239ea-5298-4cdd-866d-ce22212faa03",
+      "source": "shopify",
+      "sourceId": "shopify-35",
+      "sourceUrl": "https://example-shopify.test/products/shopify-35",
+      "name": "Olive Throw 35",
+      "sku": "SHO-0035",
+      "price": 6094,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected olive throw designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 20,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203247?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "84e1e3e8-1961-44bb-ba46-86a205a57432",
+      "source": "shopify",
+      "sourceId": "shopify-36",
+      "sourceUrl": "https://example-shopify.test/products/shopify-36",
+      "name": "Sand Fabric 36",
+      "sku": "SHO-0036",
+      "price": 6231,
+      "compareAtPrice": 7031,
+      "currency": "INR",
+      "description": "A hand-selected sand fabric designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 3,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203248?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "f97ea9ec-de5e-4aec-8e5e-2e5d35db46a5",
+      "source": "shopify",
+      "sourceId": "shopify-37",
+      "sourceUrl": "https://example-shopify.test/products/shopify-37",
+      "name": "Cobalt Loom 37",
+      "sku": "SHO-0037",
+      "price": 6368,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected cobalt loom designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 4,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203249?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "674644c9-de9a-4a72-9c90-d9a19eb9742e",
+      "source": "shopify",
+      "sourceId": "shopify-38",
+      "sourceUrl": "https://example-shopify.test/products/shopify-38",
+      "name": "Rose Cushion 38",
+      "sku": "SHO-0038",
+      "price": 6505,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected rose cushion designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 5,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203250?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "a10764b4-7dd5-49e7-be36-b2876fef9a24",
+      "source": "shopify",
+      "sourceId": "shopify-39",
+      "sourceUrl": "https://example-shopify.test/products/shopify-39",
+      "name": "Slate Pattern 39",
+      "sku": "SHO-0039",
+      "price": 6642,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected slate pattern designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 6,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203251?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "9a7ea8eb-0b99-48cd-9c3f-205880f60838",
+      "source": "shopify",
+      "sourceId": "shopify-40",
+      "sourceUrl": "https://example-shopify.test/products/shopify-40",
+      "name": "Amber Weave 40",
+      "sku": "SHO-0040",
+      "price": 6779,
+      "compareAtPrice": 7579,
+      "currency": "INR",
+      "description": "A hand-selected amber weave designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 7,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203232?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "f71703f8-a1ae-477d-afdc-96ebfc191113",
+      "source": "shopify",
+      "sourceId": "shopify-41",
+      "sourceUrl": "https://example-shopify.test/products/shopify-41",
+      "name": "Sage Runner 41",
+      "sku": "SHO-0041",
+      "price": 6916,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sage runner designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 8,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203233?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "1dc4ceb5-5f83-4fea-9993-5a91090230ef",
+      "source": "shopify",
+      "sourceId": "shopify-42",
+      "sourceUrl": "https://example-shopify.test/products/shopify-42",
+      "name": "Indigo Rug 42",
+      "sku": "SHO-0042",
+      "price": 7053,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected indigo rug designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 9,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203234?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "be3bdfcf-1fb1-4d07-bd9b-8b798fa0750b",
+      "source": "shopify",
+      "sourceId": "shopify-43",
+      "sourceUrl": "https://example-shopify.test/products/shopify-43",
+      "name": "Terracotta Mat 43",
+      "sku": "SHO-0043",
+      "price": 7190,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected terracotta mat designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 10,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203235?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "f7b68272-9a58-4c4d-a59d-5def361c6448",
+      "source": "shopify",
+      "sourceId": "shopify-44",
+      "sourceUrl": "https://example-shopify.test/products/shopify-44",
+      "name": "Ivory Textile 44",
+      "sku": "SHO-0044",
+      "price": 7327,
+      "compareAtPrice": 8127,
+      "currency": "INR",
+      "description": "A hand-selected ivory textile designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 0,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203236?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "1372cf3b-d2e5-4ec5-941e-7f717ee05287",
+      "source": "shopify",
+      "sourceId": "shopify-45",
+      "sourceUrl": "https://example-shopify.test/products/shopify-45",
+      "name": "Olive Throw 45",
+      "sku": "SHO-0045",
+      "price": 7464,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected olive throw designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 12,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203237?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "35b5f325-57b8-4944-9430-6046b066d509",
+      "source": "shopify",
+      "sourceId": "shopify-46",
+      "sourceUrl": "https://example-shopify.test/products/shopify-46",
+      "name": "Sand Fabric 46",
+      "sku": "SHO-0046",
+      "price": 1401,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sand fabric designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 13,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203238?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "4dfa9bda-69d9-4f16-b3b7-9eebc3e63b5c",
+      "source": "shopify",
+      "sourceId": "shopify-47",
+      "sourceUrl": "https://example-shopify.test/products/shopify-47",
+      "name": "Cobalt Loom 47",
+      "sku": "SHO-0047",
+      "price": 1538,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected cobalt loom designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 14,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203239?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "85e5be94-20ff-4c69-b95c-192b49920a87",
+      "source": "shopify",
+      "sourceId": "shopify-48",
+      "sourceUrl": "https://example-shopify.test/products/shopify-48",
+      "name": "Rose Cushion 48",
+      "sku": "SHO-0048",
+      "price": 1675,
+      "compareAtPrice": 2475,
+      "currency": "INR",
+      "description": "A hand-selected rose cushion designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 15,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203240?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "2fef4096-34b5-4211-8c33-a4bb2abbaa75",
+      "source": "shopify",
+      "sourceId": "shopify-49",
+      "sourceUrl": "https://example-shopify.test/products/shopify-49",
+      "name": "Slate Pattern 49",
+      "sku": "SHO-0049",
+      "price": 1812,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected slate pattern designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 16,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203241?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "7af7f4df-3f71-4539-956d-9f8406a53f5e",
+      "source": "shopify",
+      "sourceId": "shopify-50",
+      "sourceUrl": "https://example-shopify.test/products/shopify-50",
+      "name": "Amber Weave 50",
+      "sku": "SHO-0050",
+      "price": 1949,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected amber weave designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 17,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203242?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "9342bcb2-6db9-4717-96fc-1e7066e7c22c",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-1",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-1",
+      "name": "Ivory Cushion 01",
+      "sku": "WOO-0001",
+      "price": 1436,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected ivory cushion designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 4,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203234?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "43d10881-763c-4080-8a32-08fb3442e10f",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-2",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-2",
+      "name": "Olive Pattern 02",
+      "sku": "WOO-0002",
+      "price": 1573,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected olive pattern designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 5,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203235?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "84e0346c-5ff0-490f-b2ff-5280b84e3ccf",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-3",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-3",
+      "name": "Sand Weave 03",
+      "sku": "WOO-0003",
+      "price": 1710,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sand weave designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 6,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203236?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "671effe2-5ecf-43fd-93ec-14234a5d91f4",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-4",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-4",
+      "name": "Cobalt Runner 04",
+      "sku": "WOO-0004",
+      "price": 1847,
+      "compareAtPrice": 2647,
+      "currency": "INR",
+      "description": "A hand-selected cobalt runner designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 7,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203237?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "1b5a4c6e-97bd-4657-9531-5941bb6c7f69",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-5",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-5",
+      "name": "Rose Rug 05",
+      "sku": "WOO-0005",
+      "price": 1984,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected rose rug designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 8,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203238?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "819d19dc-db0f-4210-8181-771e20eba41a",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-6",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-6",
+      "name": "Slate Mat 06",
+      "sku": "WOO-0006",
+      "price": 2121,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected slate mat designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 9,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203239?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "fc8fbbf7-f6e6-4448-8297-3f03d48c83b1",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-7",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-7",
+      "name": "Amber Textile 07",
+      "sku": "WOO-0007",
+      "price": 2258,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected amber textile designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 10,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203240?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "c06d1ca9-8c1d-4198-8b9f-d1d95d82515e",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-8",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-8",
+      "name": "Sage Throw 08",
+      "sku": "WOO-0008",
+      "price": 2395,
+      "compareAtPrice": 3195,
+      "currency": "INR",
+      "description": "A hand-selected sage throw designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 11,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203241?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "8a3bdfd7-9b36-49b0-8b05-dfcd64211bb1",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-9",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-9",
+      "name": "Indigo Fabric 09",
+      "sku": "WOO-0009",
+      "price": 2532,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected indigo fabric designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 12,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203242?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "d63dd47a-794a-4219-aeb1-d21385f5b2aa",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-10",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-10",
+      "name": "Terracotta Loom 10",
+      "sku": "WOO-0010",
+      "price": 2669,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected terracotta loom designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 13,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203243?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "57af2d8d-6351-4e4f-a221-02558b9f9bae",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-11",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-11",
+      "name": "Ivory Cushion 11",
+      "sku": "WOO-0011",
+      "price": 2806,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected ivory cushion designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 0,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203244?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "c71bef66-5262-4e50-99af-40c88fd19552",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-12",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-12",
+      "name": "Olive Pattern 12",
+      "sku": "WOO-0012",
+      "price": 2943,
+      "compareAtPrice": 3743,
+      "currency": "INR",
+      "description": "A hand-selected olive pattern designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 15,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203245?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "92fa21f7-352a-4530-904b-edfc1404aa03",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-13",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-13",
+      "name": "Sand Weave 13",
+      "sku": "WOO-0013",
+      "price": 3080,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sand weave designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 16,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203246?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "886306df-a374-4fab-9e34-9eb87a1ca698",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-14",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-14",
+      "name": "Cobalt Runner 14",
+      "sku": "WOO-0014",
+      "price": 3217,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected cobalt runner designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 17,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203247?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "291df0c6-d835-4952-9af3-4d579cb77edf",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-15",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-15",
+      "name": "Rose Rug 15",
+      "sku": "WOO-0015",
+      "price": 3354,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected rose rug designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 18,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203248?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "05b401ed-7de2-4f28-a4a6-2126d3dcc7ee",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-16",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-16",
+      "name": "Slate Mat 16",
+      "sku": "WOO-0016",
+      "price": 3491,
+      "compareAtPrice": 4291,
+      "currency": "INR",
+      "description": "A hand-selected slate mat designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 19,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203249?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "ff1176d0-517f-4c57-b3f1-4ec318dbf5f9",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-17",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-17",
+      "name": "Amber Textile 17",
+      "sku": "WOO-0017",
+      "price": 3628,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected amber textile designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 20,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203250?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "ce59305f-6ab7-4691-b276-f55350491f7f",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-18",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-18",
+      "name": "Sage Throw 18",
+      "sku": "WOO-0018",
+      "price": 3765,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sage throw designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 3,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203251?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "e4c7ceb5-91f6-4ae8-a4af-463e3a37785e",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-19",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-19",
+      "name": "Indigo Fabric 19",
+      "sku": "WOO-0019",
+      "price": 3902,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected indigo fabric designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 4,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203232?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "a57588e3-ce86-4aa7-a18e-7bedf2e9fdec",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-20",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-20",
+      "name": "Terracotta Loom 20",
+      "sku": "WOO-0020",
+      "price": 4039,
+      "compareAtPrice": 4839,
+      "currency": "INR",
+      "description": "A hand-selected terracotta loom designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 5,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203233?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "598d9264-732b-485f-ae43-01f40f7f26a5",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-21",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-21",
+      "name": "Ivory Cushion 21",
+      "sku": "WOO-0021",
+      "price": 4176,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected ivory cushion designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 6,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203234?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "2c860652-421e-4c7f-b18d-a20dc991c208",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-22",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-22",
+      "name": "Olive Pattern 22",
+      "sku": "WOO-0022",
+      "price": 4313,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected olive pattern designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 0,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203235?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.029Z",
+      "createdAt": "2026-09-27T19:14:12.029Z"
+    },
+    {
+      "id": "01511cbe-155a-49fe-8f65-76b188d798be",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-23",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-23",
+      "name": "Sand Weave 23",
+      "sku": "WOO-0023",
+      "price": 4450,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sand weave designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 8,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203236?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "bca19c50-990f-41aa-81a2-fd5e52846028",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-24",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-24",
+      "name": "Cobalt Runner 24",
+      "sku": "WOO-0024",
+      "price": 4587,
+      "compareAtPrice": 5387,
+      "currency": "INR",
+      "description": "A hand-selected cobalt runner designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 9,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203237?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "dfd6e0f8-7b4b-4996-97de-dc72224b94a2",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-25",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-25",
+      "name": "Rose Rug 25",
+      "sku": "WOO-0025",
+      "price": 4724,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected rose rug designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 10,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203238?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "9aa0e78e-eb2a-49ee-a8bd-3e2f92eca210",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-26",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-26",
+      "name": "Slate Mat 26",
+      "sku": "WOO-0026",
+      "price": 4861,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected slate mat designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 11,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203239?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "349b9f8c-3662-418d-98ab-2221fb452699",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-27",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-27",
+      "name": "Amber Textile 27",
+      "sku": "WOO-0027",
+      "price": 4998,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected amber textile designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 12,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203240?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "188388c7-ddae-4b94-95fb-920a154729d3",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-28",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-28",
+      "name": "Sage Throw 28",
+      "sku": "WOO-0028",
+      "price": 5135,
+      "compareAtPrice": 5935,
+      "currency": "INR",
+      "description": "A hand-selected sage throw designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 13,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203241?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "831cae79-b6a0-4723-ac4b-970564a66425",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-29",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-29",
+      "name": "Indigo Fabric 29",
+      "sku": "WOO-0029",
+      "price": 5272,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected indigo fabric designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 14,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203242?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "0f5d2b08-c2ff-4574-af92-0f7540da936b",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-30",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-30",
+      "name": "Terracotta Loom 30",
+      "sku": "WOO-0030",
+      "price": 5409,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected terracotta loom designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 15,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203243?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "9a71a9fa-de5e-424b-ab9e-86663328c54c",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-31",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-31",
+      "name": "Ivory Cushion 31",
+      "sku": "WOO-0031",
+      "price": 5546,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected ivory cushion designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 16,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203244?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "b426a647-f783-4eac-ae40-2b21967a6d7e",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-32",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-32",
+      "name": "Olive Pattern 32",
+      "sku": "WOO-0032",
+      "price": 5683,
+      "compareAtPrice": 6483,
+      "currency": "INR",
+      "description": "A hand-selected olive pattern designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 17,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203245?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "a4b8d021-d1d6-4dda-b66f-c89b2a10ba6f",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-33",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-33",
+      "name": "Sand Weave 33",
+      "sku": "WOO-0033",
+      "price": 5820,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sand weave designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 0,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203246?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "9b44bc4f-8d06-4954-9cc1-5e6e658c3037",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-34",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-34",
+      "name": "Cobalt Runner 34",
+      "sku": "WOO-0034",
+      "price": 5957,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected cobalt runner designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 19,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203247?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "60bcb130-cb3b-4423-b159-7948aa64059b",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-35",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-35",
+      "name": "Rose Rug 35",
+      "sku": "WOO-0035",
+      "price": 6094,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected rose rug designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 20,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203248?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "d2d13b31-114b-49a3-8d4b-0f1be914fb9d",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-36",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-36",
+      "name": "Slate Mat 36",
+      "sku": "WOO-0036",
+      "price": 6231,
+      "compareAtPrice": 7031,
+      "currency": "INR",
+      "description": "A hand-selected slate mat designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 3,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203249?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "119f8190-d18d-4412-ac4a-b34d4bdba224",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-37",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-37",
+      "name": "Amber Textile 37",
+      "sku": "WOO-0037",
+      "price": 6368,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected amber textile designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 4,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203250?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "82c368d2-5599-4265-86ad-f7b10d01feeb",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-38",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-38",
+      "name": "Sage Throw 38",
+      "sku": "WOO-0038",
+      "price": 6505,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sage throw designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 5,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203251?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "fe930b13-72df-4531-80f0-b9f76d99c423",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-39",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-39",
+      "name": "Indigo Fabric 39",
+      "sku": "WOO-0039",
+      "price": 6642,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected indigo fabric designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 6,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203232?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "2b637c67-4973-44cf-9e11-3b5e4b5f62bc",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-40",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-40",
+      "name": "Terracotta Loom 40",
+      "sku": "WOO-0040",
+      "price": 6779,
+      "compareAtPrice": 7579,
+      "currency": "INR",
+      "description": "A hand-selected terracotta loom designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 7,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203233?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "87440156-8d86-414f-80ef-953ea8958f09",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-41",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-41",
+      "name": "Ivory Cushion 41",
+      "sku": "WOO-0041",
+      "price": 6916,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected ivory cushion designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 8,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203234?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.030Z",
+      "createdAt": "2026-09-27T19:14:12.030Z"
+    },
+    {
+      "id": "fafb4216-520f-4bbc-8c01-964c136ae3ec",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-42",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-42",
+      "name": "Olive Pattern 42",
+      "sku": "WOO-0042",
+      "price": 7053,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected olive pattern designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 9,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203235?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.032Z",
+      "createdAt": "2026-09-27T19:14:12.032Z"
+    },
+    {
+      "id": "b49c16d2-2a18-441b-bf6d-20ee6aebf928",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-43",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-43",
+      "name": "Sand Weave 43",
+      "sku": "WOO-0043",
+      "price": 7190,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected sand weave designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 10,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203236?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.032Z",
+      "createdAt": "2026-09-27T19:14:12.032Z"
+    },
+    {
+      "id": "e9c989ab-c080-4707-8214-cf36f8d6f74e",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-44",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-44",
+      "name": "Cobalt Runner 44",
+      "sku": "WOO-0044",
+      "price": 7327,
+      "compareAtPrice": 8127,
+      "currency": "INR",
+      "description": "A hand-selected cobalt runner designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 0,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203237?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.032Z",
+      "createdAt": "2026-09-27T19:14:12.032Z"
+    },
+    {
+      "id": "9c0b33c7-8adc-4f62-93b2-dd07ef9f15ff",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-45",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-45",
+      "name": "Rose Rug 45",
+      "sku": "WOO-0045",
+      "price": 7464,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected rose rug designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 12,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203238?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.032Z",
+      "createdAt": "2026-09-27T19:14:12.032Z"
+    },
+    {
+      "id": "aea1a852-6c32-4cd9-892a-7899cc403651",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-46",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-46",
+      "name": "Slate Mat 46",
+      "sku": "WOO-0046",
+      "price": 1401,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected slate mat designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "dining",
+      "categoryName": "Dining",
+      "stock": 13,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203239?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.032Z",
+      "createdAt": "2026-09-27T19:14:12.032Z"
+    },
+    {
+      "id": "b22a1259-1dd6-4fca-99cf-3ac093ec9a54",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-47",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-47",
+      "name": "Amber Textile 47",
+      "sku": "WOO-0047",
+      "price": 1538,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected amber textile designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "office",
+      "categoryName": "Office",
+      "stock": 14,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203240?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.032Z",
+      "createdAt": "2026-09-27T19:14:12.032Z"
+    },
+    {
+      "id": "01fa22a1-44ea-4975-9ff2-5af7dbb56bd4",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-48",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-48",
+      "name": "Sage Throw 48",
+      "sku": "WOO-0048",
+      "price": 1675,
+      "compareAtPrice": 2475,
+      "currency": "INR",
+      "description": "A hand-selected sage throw designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "outdoor",
+      "categoryName": "Outdoor",
+      "stock": 15,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203241?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.032Z",
+      "createdAt": "2026-09-27T19:14:12.032Z"
+    },
+    {
+      "id": "899e21ad-a5c3-49fb-a6e8-0e70018cad45",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-49",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-49",
+      "name": "Indigo Fabric 49",
+      "sku": "WOO-0049",
+      "price": 1812,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected indigo fabric designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "living",
+      "categoryName": "Living Room",
+      "stock": 16,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203242?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Cotton blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.032Z",
+      "createdAt": "2026-09-27T19:14:12.032Z"
+    },
+    {
+      "id": "00c93ba8-e443-490a-b6dc-ae7e66c10b88",
+      "source": "woocommerce",
+      "sourceId": "woocommerce-50",
+      "sourceUrl": "https://example-woocommerce.test/products/woocommerce-50",
+      "name": "Terracotta Loom 50",
+      "sku": "WOO-0050",
+      "price": 1949,
+      "compareAtPrice": null,
+      "currency": "INR",
+      "description": "A hand-selected terracotta loom designed for everyday spaces. Soft texture, considered colour, and durable construction.",
+      "categoryId": "bedroom",
+      "categoryName": "Bedroom",
+      "stock": 17,
+      "variants": [],
+      "images": [
+        "https://images.unsplash.com/photo-1513694203243?auto=format&fit=crop&w=900&q=75"
+      ],
+      "metadata": {
+        "material": "Wool blend",
+        "sourceStatus": "active"
+      },
+      "updatedAt": "2026-09-27T19:14:12.032Z",
+      "createdAt": "2026-09-27T19:14:12.032Z"
+    }
+  ],
+  "syncHistory": [],
+  "updatedAt": "2026-09-27T19:14:12.032Z"
+}
